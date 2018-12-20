@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Michaela Koopmans / Site Title"
+title                    : "Michaela Koopmans"
 title_separator          : "-"
 name                     : &name "Michaela Koopmans"
-description              : &description "personal description"
+description              : &description "Portfolio website"
 url                      : https://michaela-koopmans.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "michaela-koopmans/michaela-koopmans.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Michaela Koopmans"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Computational Chemist"
   location         : "Athens, GA"
   employer         : "ORAU - EPA ORD"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=RXvPmq4AAAAJ"
@@ -107,7 +107,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
