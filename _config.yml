@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Michaela Koopmans"
+title                    : "Test"
 title_separator          : "|"
-name                     : &name "Michaela Koopmans"
+name                     : &name "Test"
 description              : &description "Portfolio website"
 url                      : https://michaela-koopmans.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Michaela Koopmans"
-  avatar           : "newlinkedinphoto.jpg"
-  bio              : "Computational Chemist"
-  location         : "Athens, GA"
-  employer         : "ORAU - EPA ORD"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=RXvPmq4AAAAJ"
-  email            : "michaela.koopmans@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  name             : 
+  avatar           : 
+  bio              : 
+  location         : 
+  employer         : 
+  googlescholar    : 
+  email            : 
+  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -95,13 +95,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "michaela-koopmans"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/michaelakoopmans/"
-  orcid            : "https://orcid.org/0000-0002-3442-5598"
+  linkedin         : 
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
